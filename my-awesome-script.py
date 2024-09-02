@@ -1,1 +1,1 @@
-print('Hajimemashite sekai!')
+print("Hello World! We are one!")
